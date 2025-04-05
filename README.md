@@ -1,2 +1,2 @@
 # CPP
-This repo contains the code related C++ concepts
+This repo contains the code related to C++ concepts
